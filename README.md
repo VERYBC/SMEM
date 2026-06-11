@@ -14,6 +14,6 @@ This repository contains the dataset and the code for our paper Sparse Local Fea
 ### 1.2. Download LightGlue weights 
 
 - Download the model weight files [[Google]](https://drive.google.com/drive/folders/1ug7TvR-SMjKRQ22qfhCPBLS4tNJtRTmU?usp=drive_link) and place them in the `checkpoints/` directory.
-- 
+  
 ### 1.3. Localization
 - Run `python location.py`, you will get the localization results, and the results will be saved to the `results/` folder.
